@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.login-page{
+    background: #525252;
+}
+header {
+    margin-bottom: 100px;
+}
+body {
+    color: white;
+    background-color: #ecf0f5;
+    background-position: 30% 45%;
+    background-size: cover;
+    color: #000;
+    overflow-x: hidden;
+}
+.conteudo {
+    margin-top: 25px;
+    margin-bottom: 75px;
+}
+.perguntas {
+    margin: 5px;
+}
+.titulo {
+    font-weight: bolder;
+}
+.txtDireita {
+    float: right;
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+button {
+    text-align: center;
+}
+.form-group .btn-outline-info {
+    margin-right: 35px;
+}
+.bar {
+    border-radius: 3%;
+    right: 0;
+    height: 400px;
+}
+.logout a {
+    color: #17a2b8;
+}
+.logout a:hover {
+    color: #fff;
+}
+.txt-sm {
+    font-size: 17px;
+}
+ol li{ 
+    color: #000; 
+    margin: 15px;
+} 
+footer {
+    position: fixed;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    padding: 1rem;
+    background-color: #8cc541;
+    text-align: center;
+    color:#fff;
+    margin-top: 20px;
+}
